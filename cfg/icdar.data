@@ -1,4 +1,5 @@
 classes=1
 train= data/icdar_train.txt
 valid= data/icdar_valid.txt
+names = cfg/icdar.names
 backup= /mydrive/DDM/backup
