@@ -1,0 +1,4 @@
+classes=1
+train= data/icdar_train.txt
+valid= data/icdar_valid.txt
+backup= /mydrive/DDM/backup
