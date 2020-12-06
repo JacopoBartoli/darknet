@@ -1,0 +1,5 @@
+classes = 1
+train = data/marmot_train.txt
+valid = data/marmot_valid.txt
+names = cfg/marmot.names
+backup = /mydrive/DDM/backup
