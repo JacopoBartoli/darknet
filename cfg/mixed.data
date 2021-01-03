@@ -1,5 +1,0 @@
-classes = 1
-train = data/mixed_train.txt
-valid = data/mixed_valid.txt
-names = cfg/mixed.names
-backup = /mydrive/DDM/backup
